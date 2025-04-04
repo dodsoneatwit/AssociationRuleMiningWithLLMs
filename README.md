@@ -7,7 +7,8 @@ Utilize association rule mining techniques (e.g., Apriori, FP-Growth) to uncover
 <li>pip install numpy</li>
 <li>pip install pandas</li>
 <li>pip install -U scikit-learn</li>
-<li>python -m pip install matplotlib</li>
+<li>pip install matplotlib</li>
+<li>pip install mlxtend</li>
 
 # Dataset
 
